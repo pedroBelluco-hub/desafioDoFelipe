@@ -17,4 +17,4 @@ if (heroXp < 1000) {
 } else {
     heroLevel = "Radiant"
 }
-console.log("The hero " + heroName + " is level " + herol)
+console.log("The hero " + heroName + " is level " + heroLevel)
